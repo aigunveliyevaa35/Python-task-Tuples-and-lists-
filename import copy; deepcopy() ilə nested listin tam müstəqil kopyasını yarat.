@@ -1,0 +1,5 @@
+ import copy
+nested_list=[[1,2],[3,4]]
+copied_list=copy.deepcopy(nested_list)
+print("original list:",nested_list)
+print("copied list:",copied_list)
