@@ -1,0 +1,11 @@
+def user_info():
+    name = "Aigun"
+    age = 18
+    city = "Baku"
+    return name,age,city 
+
+name_value,age_value,city_value = user_info()
+
+print(f"Name: {name_value}")
+print(f"Age: {age_value}")
+print(f"City: {city_value}")
