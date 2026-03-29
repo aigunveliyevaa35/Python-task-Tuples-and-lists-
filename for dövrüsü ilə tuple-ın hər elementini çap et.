@@ -1,0 +1,4 @@
+fruits = ("apple", "banana", "cherry","pomegranete")
+
+for fruit in fruits:
+    print(f"fruit: {fruit}")
