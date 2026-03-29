@@ -1,0 +1,3 @@
+. my_list=["alma","hello","flower"]
+for i in range(len(my_list)):
+    print("index {i},element: {my_list[i]}")
