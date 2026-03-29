@@ -1,0 +1,4 @@
+my_list=["apple","flower"]
+my_tuple=("hello","aigun")
+my_list.extend(my_tuple)
+print(my_list)
