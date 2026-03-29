@@ -1,0 +1,2 @@
+my_list=["aigun",5,True,"apple","armud"]
+print(my_list[1:4])
