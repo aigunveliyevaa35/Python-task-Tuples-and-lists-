@@ -1,0 +1,3 @@
+meyveler = ["Alma", "Banan", "Albalı", "Nar"]
+for i, meyve in enumerate(meyveler):
+    print(f"İndeks: {i}, Meyvə: {meyve}")
