@@ -1,0 +1,3 @@
+. words=["aigun","scotland","flowers","dog"]
+words.sort(key=len)
+print(words)
