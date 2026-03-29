@@ -1,0 +1,4 @@
+list1=["apple","hello"]
+list2=["flower","banana"]
+new_list=list1+list2
+print(new_list)
