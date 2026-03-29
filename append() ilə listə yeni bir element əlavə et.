@@ -1,0 +1,3 @@
+my_list=["aigun",5,True,"apple","armud"]
+my_list.append("hello")
+print(my_list)
