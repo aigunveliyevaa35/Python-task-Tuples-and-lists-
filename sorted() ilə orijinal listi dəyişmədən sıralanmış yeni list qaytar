@@ -1,0 +1,4 @@
+numbers=[1,2,9,4,7]
+sorted_numbers=sorted(numbers)
+print("Original list:",numbers)
+print("Sorted list:",sorted_numbers)
