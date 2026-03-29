@@ -1,0 +1,5 @@
+my_list=["aigun",5,True,"apple","armud"]
+if "armud" in my_list:
+    print("element exists in a list")
+else:
+    print("element not exists in a list")
