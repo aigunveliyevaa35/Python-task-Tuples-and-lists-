@@ -1,0 +1,4 @@
+list1=[1,2,3,4,5]
+removed_element=list1.pop(1)
+print(removed_element)
+print(list1)
