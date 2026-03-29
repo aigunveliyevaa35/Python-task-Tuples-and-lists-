@@ -1,0 +1,3 @@
+fruits = ("apple", "banana", "cherry","pomegranete")
+for i in range(len(fruits)):
+    print(f"İndex {i}: {fruits[i]}")
