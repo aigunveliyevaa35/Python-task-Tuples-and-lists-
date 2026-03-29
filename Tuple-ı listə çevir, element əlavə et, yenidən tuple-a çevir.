@@ -1,0 +1,5 @@
+t=(25,"Aigun",True)
+l=list(t)
+l.append(40)
+t=tuple(l)
+print(t)
