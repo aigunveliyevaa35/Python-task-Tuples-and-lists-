@@ -1,0 +1,5 @@
+user=("Aigun",18,"Baku")
+name,age,city=user
+print(name)
+print(age)
+print(city)
